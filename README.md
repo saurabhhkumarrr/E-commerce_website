@@ -18,8 +18,7 @@ Clone the program to your local machine.
 #To run
 
 run site :- 
-https://saurabhhkumarrr.github.io/Major-Project/
+https://saurabhhkumarrr.github.io/E-commerce_website/
 
-https://saurabhhkumarrr.github.io/Major-Project/
+https://saurabhhkumarrr.github.io/E-commerce_website/
 
-https://saurabhhkumarrr.github.io/Major-Project/
