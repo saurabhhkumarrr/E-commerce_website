@@ -1,5 +1,6 @@
-# Major-Project
-Its my IGNOU final year major project
+# E-commerce website
+it is an e-commerce website
+
 
 # About
 It us a portfolio for showcasing my skills, projects, qualifications, contact, about me etc.
